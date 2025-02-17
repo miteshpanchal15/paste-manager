@@ -1,8 +1,13 @@
-# React + Vite
+# Paste Manager
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## About
 
-Currently, two official plugins are available:
+**Paste Manager** is a web-based application designed to securely store, manage, and share your text snippets and code snippets. Whether you're a developer, writer, or anyone who needs to keep track of frequently used text, Paste Manager offers a user-friendly interface and robust features to enhance your productivity.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
+
+- **Secure Storage:** Safely store your text and code snippets with end-to-end encryption.
+- **Organized Management:** Categorize and tag your snippets for easy retrieval.
+- **Sharing Capabilities:** Share snippets with others via secure links.
+- **Search Functionality:** Quickly find snippets using the built-in search feature.
+- **Cross-Platform Access:** Access your snippets from any device with an internet connection.
